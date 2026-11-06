@@ -1,4 +1,6 @@
 {
-    "version": "1.1.8",
-    "download_url": "https://github.com/MemoryHazy313/songsync-releases/releases/download/v1.1.8/SongSync.exe"
+    "version": "1.1.10",
+    "download_url": "https://github.com/MemoryHazy313/songsync-releases/releases/download/v1.1.10/SongSync.exe",
+    "sha256": "5225bb3ca750a21e4afce677f33bc8cf78686a8d53fe02e3694ff015a1634cdf",
+    "signature": "PtB/cz97FWXQtZmkWuWFgv+XnxWqepMBdEvlpjiGHzUtQGmwnsqEWhufaY55DVdnCndKr2P2TsCiChtjiVNOAQ=="
 }
